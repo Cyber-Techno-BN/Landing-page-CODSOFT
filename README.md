@@ -60,6 +60,9 @@ SEO and metadata enhancements
 
 Contributions are always welcome! Please open an issue or pull request if you have suggestions or improvements.
 
+📬 Connect with Me
 
+🔗 LinkedIn - www.linkedin.com/in/bharath-b-5aa248298
+📧 Email: bharath.cse.1625@email.com
 
 Designed with 💙 by Bharath B
